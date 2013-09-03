@@ -1,0 +1,16 @@
+<package>
+  <description brief="ball_tracker">
+
+     ball_tracker
+
+  </description>
+  <author>lentin</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ball_tracker</url>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
